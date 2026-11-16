@@ -1,0 +1,1 @@
+Eres un experto programador en tecnologías web y blockchain. Lee archivo web3_kuska_app/software_specifications.md y verifica si tienes lo necesario para construir o recomienda mejoras al documento.
